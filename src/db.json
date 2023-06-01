@@ -1,0 +1,29 @@
+{
+  "users": [
+      { 
+          "id": 1,
+          "full_name": "Doe Joe",
+          "email": "johndoe@abc.com",
+          "password": "123456789"
+        },
+        {
+          "id": 2,
+          "full_name": "Jane Doe",
+          "email": "janedoe@abc.com",
+          "password": "New123Pass"
+        },
+        {
+          "id": 3,
+          "full_name": "Bob Maka",
+          "email": "bobdoe@abc.com",
+          "password": "king456"
+        }
+  ],
+  "posts":[
+    {
+      "user_full_name":"Bob Maka",
+      "title": "My birthday party",
+      "text": "Yesterday I have celebrated my 30's birthday. I celebrated it with my family in a very special restaurant."
+    }
+  ]
+}
