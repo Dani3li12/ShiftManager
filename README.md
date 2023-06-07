@@ -9,3 +9,4 @@ Shift manager app in React.
 ![Editprofile](https://github.com/Dani3li12/ShiftManager/assets/86770070/fbcd1c4d-d790-4295-9ed6-ab6e1c1323dd)
 ![Addshift](https://github.com/Dani3li12/ShiftManager/assets/86770070/5059f707-7360-4cb7-905c-b3c3921da436)
 ![myshifts](https://github.com/Dani3li12/ShiftManager/assets/86770070/1c7aaa2d-94c0-478c-8397-2123a3bb9ee5)
+![image](https://github.com/Dani3li12/ShiftManager/assets/86770070/1c5c6915-4834-4056-b823-86b87be6dd66)
